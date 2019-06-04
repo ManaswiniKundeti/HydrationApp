@@ -826,10 +826,11 @@ int string charging_reminder_notification_title 0x7f0c002a
 int string default_charge_notification_count 0x7f0c002b
 int string default_water_count 0x7f0c002c
 int string instructions 0x7f0c002d
-int string search_menu_title 0x7f0c002e
-int string status_bar_notification_info_overflow 0x7f0c002f
-int string water_chug_toast 0x7f0c0030
-int string water_increment_content_desc 0x7f0c0031
+int string main_notification_channel_name 0x7f0c002e
+int string search_menu_title 0x7f0c002f
+int string status_bar_notification_info_overflow 0x7f0c0030
+int string water_chug_toast 0x7f0c0031
+int string water_increment_content_desc 0x7f0c0032
 int style AlertDialog_AppCompat 0x7f0d0000
 int style AlertDialog_AppCompat_Light 0x7f0d0001
 int style Animation_AppCompat_Dialog 0x7f0d0002

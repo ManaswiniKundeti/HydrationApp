@@ -827,6 +827,7 @@ string charging_reminder_notification_title
 string default_charge_notification_count
 string default_water_count
 string instructions
+string main_notification_channel_name
 string search_menu_title
 string status_bar_notification_info_overflow
 string water_chug_toast

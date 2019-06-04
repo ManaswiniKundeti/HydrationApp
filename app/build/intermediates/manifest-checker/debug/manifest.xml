@@ -5,8 +5,10 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="26"
         android:targetSdkVersion="26" />
+    <!-- giving user permission to vibrate the notifications -->
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:allowBackup="true"
@@ -19,7 +21,14 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.android.background.MainActivity"
+            android:launchMode="singleTop"
             android:screenOrientation="portrait" >
+
+            <!--
+            If we are currently in the app & when we clicked on the notification, we do not want to relaunch the app agin.so using single-top
+            to relaunch only if we are not in the app
+            -->
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,6 +36,7 @@
             </intent-filter>
         </activity>
 
+        <!-- declaring the serviceIntent in the manifest -->
         <service
             android:name="com.example.android.background.sync.WaterReminderIntentService"
             android:exported="false" />

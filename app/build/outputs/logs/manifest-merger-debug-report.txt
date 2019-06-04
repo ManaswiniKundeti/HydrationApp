@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dda6871131db2b1e4637ed815c7e36e8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fc740e42eab845c3d7231585f659ec8c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23bd11608782a2a906fab9522c219a0b/AndroidManifest.xml:17:1-22:12
@@ -30,25 +30,29 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Manaswini/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/51662cd2291ef64aa5341c8268519228/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0b47e44ea418fbcebc3ac8b82648de32/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0e05f9da50b794a52f82a4ac4513de6/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:3:11-51
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:5:1-62
+	android:name
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:5:18-59
 application
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:6:5-30:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:22:5-23:19
@@ -56,37 +60,39 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.g
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.android.background.MainActivity
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:11:9-19:20
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:12:9-24:20
 	android:screenOrientation
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:13:13-49
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:15:13-49
+	android:launchMode
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:14:13-43
 	android:name
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:12:13-41
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:15:17-68
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:17:17-76
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:22:17-76
 	android:name
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:22:27-74
 service#com.example.android.background.sync.WaterReminderIntentService
-ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:21:9-22:40
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:27:9-28:40
 	android:exported
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:22:13-37
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:21:18-65
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:27:18-65
 uses-sdk
 INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
