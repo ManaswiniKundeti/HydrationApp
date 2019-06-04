@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity implements
         }
     }
 
+    //this will tell user to drink water
     public void testNotification(View view) {
         NotificationUtils.remindUserBecausePhoneCharging(this);
     }
