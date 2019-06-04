@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">"Hydration Reminder"</string>
+    <string name="app_name">"Thirsty"</string>
 
     <!-- Strings for the MainActivity -->
     <string name="instructions">
