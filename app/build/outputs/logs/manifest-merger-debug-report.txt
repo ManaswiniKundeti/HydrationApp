@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dda6871131db2b1e4637ed815c7e36e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fc740e42eab845c3d7231585f659ec8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23bd11608782a2a906fab9522c219a0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/62d7e63aa078017ffd9acb788bdc0941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1e965a076f622fefca0ca69ef46ba01d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/883de0b89028064200f9f3fb36a1f015/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/252f12d98014ea01cd0d19201f533fce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/919af53bf4d7fbe8d5c80d513a983153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eee96b1dda4acca7562539d4e52bdc48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e31f3365dada46f9215d7d230313b085/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4cc2bead2c4e9c88fea16e50c8c8e6a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f278dc5a40938080b88a30e441744cd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7ab3011d6e9573fafd15b4311885528/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/46566492416a91745ea183349e296125/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c2d566bbdef4493d24c4f2dc08205ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f9188b120ed3f821c9423d1817282d78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/23d18106649c54bda6ae041301120430/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8618696cbe7355d878c58a5c60057d17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/21d496bb37e5e7c8422da064fcccb72d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b064f8955cfc80cc88140539623cc769/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0454005f52b3b2f86863e2d32d205e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/51662cd2291ef64aa5341c8268519228/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0b47e44ea418fbcebc3ac8b82648de32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0e05f9da50b794a52f82a4ac4513de6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:3:11-51
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.background.MainActivity
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:screenOrientation
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dda6871131db2b1e4637ed815c7e36e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dda6871131db2b1e4637ed815c7e36e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fc740e42eab845c3d7231585f659ec8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fc740e42eab845c3d7231585f659ec8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23bd11608782a2a906fab9522c219a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23bd11608782a2a906fab9522c219a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/62d7e63aa078017ffd9acb788bdc0941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/62d7e63aa078017ffd9acb788bdc0941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1e965a076f622fefca0ca69ef46ba01d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1e965a076f622fefca0ca69ef46ba01d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/883de0b89028064200f9f3fb36a1f015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/883de0b89028064200f9f3fb36a1f015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/252f12d98014ea01cd0d19201f533fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/252f12d98014ea01cd0d19201f533fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/919af53bf4d7fbe8d5c80d513a983153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/919af53bf4d7fbe8d5c80d513a983153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eee96b1dda4acca7562539d4e52bdc48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eee96b1dda4acca7562539d4e52bdc48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e31f3365dada46f9215d7d230313b085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e31f3365dada46f9215d7d230313b085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4cc2bead2c4e9c88fea16e50c8c8e6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4cc2bead2c4e9c88fea16e50c8c8e6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f278dc5a40938080b88a30e441744cd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f278dc5a40938080b88a30e441744cd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7ab3011d6e9573fafd15b4311885528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d7ab3011d6e9573fafd15b4311885528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/46566492416a91745ea183349e296125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/46566492416a91745ea183349e296125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/14abc028505ffaea9e1b92fe619b6037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/34a59f69a043e6b687e0eb9a8f49bfc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c2d566bbdef4493d24c4f2dc08205ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c2d566bbdef4493d24c4f2dc08205ad1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f9188b120ed3f821c9423d1817282d78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f9188b120ed3f821c9423d1817282d78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/23d18106649c54bda6ae041301120430/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/23d18106649c54bda6ae041301120430/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8618696cbe7355d878c58a5c60057d17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8618696cbe7355d878c58a5c60057d17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/21d496bb37e5e7c8422da064fcccb72d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/21d496bb37e5e7c8422da064fcccb72d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b064f8955cfc80cc88140539623cc769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b064f8955cfc80cc88140539623cc769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0454005f52b3b2f86863e2d32d205e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d0454005f52b3b2f86863e2d32d205e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/51662cd2291ef64aa5341c8268519228/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/51662cd2291ef64aa5341c8268519228/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0b47e44ea418fbcebc3ac8b82648de32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0b47e44ea418fbcebc3ac8b82648de32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0e05f9da50b794a52f82a4ac4513de6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Manaswini/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c0e05f9da50b794a52f82a4ac4513de6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Manaswini/Documents/UDACITY/Android/HydrationApp/app/src/main/AndroidManifest.xml
