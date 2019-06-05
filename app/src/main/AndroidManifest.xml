@@ -23,9 +23,16 @@
             </intent-filter>
         </activity>
 
-        <!-- declaring the serviceIntent in the manifest-->
+        <!-- declaring the Intent Service in the manifest-->
         <service android:name=".sync.WaterReminderIntentService"
             android:exported="false" />
 
+        <!-- adding the waterReminder Job Service in manifest-->
+        <service android:name=".sync.WaterReminderFirebaseJobService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE"/>
+            </intent-filter>
+        </service>
     </application>
 </manifest>
